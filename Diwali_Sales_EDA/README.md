@@ -1,1 +1,10 @@
-Hi there
+# DIWALI SALES ANALYSIS 🎇🎆🔥
+
+# 📊 ANALYSIS
+- Perfomed Data Cleaning & Manipulation
+- Performed EDA on Diwali Sales Dataset
+- Improved customer experience by identifying potential customers across different states, occupation, gender and age groups.
+- Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
+
+# 🎯 INSIGHTS
+*Married women age group 26-35 yrs from UP,  Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category*
